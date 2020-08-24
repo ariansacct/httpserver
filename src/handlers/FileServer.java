@@ -1,4 +1,4 @@
-package httpserver;
+package handlers;
 
 import java.io.*;
 import java.util.*;

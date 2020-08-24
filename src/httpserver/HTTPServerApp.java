@@ -5,6 +5,10 @@ import java.net.InetSocketAddress;
 
 import com.sun.net.httpserver.HttpServer;
 
+import handlers.Calculator;
+import handlers.FileServer;
+import handlers.Greeter;
+
 public class HTTPServerApp {
 
 	public static void main(String[] args) throws IOException {

@@ -1,4 +1,5 @@
-package httpserver;
+package handlers;
+
 import java.io.*;
 import java.util.*;
 import com.sun.net.httpserver.*;
